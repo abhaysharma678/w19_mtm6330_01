@@ -1,0 +1,23 @@
+{
+  "name": "w19_mtm6330_01",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhaysharma678/w19_mtm6330_01.git"
+  },
+  "author": "Abhay Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhaysharma678/w19_mtm6330_01/issues"
+  },
+  "homepage": "https://github.com/abhaysharma678/w19_mtm6330_01#readme",
+  "devDependencies": {
+    "webpack": "^4.28.4",
+    "webpack-dev-server": "^3.1.14"
+  }
+}
